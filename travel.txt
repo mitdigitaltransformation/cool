@@ -2,6 +2,8 @@ Packing list
 =================================
 -shoes
 --coat
+--Camera
+--Need battery for the 
 
 Picnic
 =======================
